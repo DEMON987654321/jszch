@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>技术资产化 - 第1季·认知重塑</title><link>https://demon987654321.github.io/jszch</link><language>zh-cn</language><description>技术的价值从何而来？10集带你重新认识技术资产。</description><itunes:author>王博辉</itunes:author><itunes:summary>技术资产化播客</itunes:summary><itunes:author>王博辉</itunes:author><itunes:image href="https://demon987654321.github.io/jszch/covers/s01_cover.png" /><itunes:category text="Technology" /><item>
+      <title>S1E01</title>
+      <itunes:title>S1E01</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep01.mp3" length="9437709" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep01.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:26:12</itunes:duration>
+      <description>S1E01</description>
+    </item>
+    <item>
+      <title>S1E02</title>
+      <itunes:title>S1E02</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep02.mp3" length="9398829" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep02.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:26:06</itunes:duration>
+      <description>S1E02</description>
+    </item>
+    <item>
+      <title>S1E03</title>
+      <itunes:title>S1E03</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep03.mp3" length="9428925" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep03.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:26:11</itunes:duration>
+      <description>S1E03</description>
+    </item>
+    <item>
+      <title>S1E04</title>
+      <itunes:title>S1E04</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep04.mp3" length="9503805" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep04.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:26:23</itunes:duration>
+      <description>S1E04</description>
+    </item>
+    <item>
+      <title>S1E05</title>
+      <itunes:title>S1E05</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep05.mp3" length="9305373" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep05.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:25:50</itunes:duration>
+      <description>S1E05</description>
+    </item>
+    <item>
+      <title>S1E06</title>
+      <itunes:title>S1E06</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep06.mp3" length="5577213" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep06.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:15:29</itunes:duration>
+      <description>S1E06</description>
+    </item>
+    <item>
+      <title>S1E07</title>
+      <itunes:title>S1E07</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep07.mp3" length="5363229" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep07.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:14:53</itunes:duration>
+      <description>S1E07</description>
+    </item>
+    <item>
+      <title>S1E08</title>
+      <itunes:title>S1E08</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep08.mp3" length="8610717" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep08.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:23:55</itunes:duration>
+      <description>S1E08</description>
+    </item>
+    <item>
+      <title>S1E09</title>
+      <itunes:title>S1E09</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep09.mp3" length="7430205" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep09.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:38</itunes:duration>
+      <description>S1E09</description>
+    </item>
+    <item>
+      <title>S1E10</title>
+      <itunes:title>S1E10</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep10.mp3" length="7277421" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep10.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:12</itunes:duration>
+      <description>S1E10</description>
+    </item>
+    </channel></rss>
