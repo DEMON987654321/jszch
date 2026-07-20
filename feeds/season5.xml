@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>技术资产化 - 第5季·成果转化</title><link>https://demon987654321.github.io/jszch</link><language>zh-cn</language><description>实验室到市场，打通技术转化最后一公里。</description><itunes:author>王博辉</itunes:author><itunes:summary>技术资产化播客</itunes:summary><itunes:author>王博辉</itunes:author><itunes:image href="https://demon987654321.github.io/jszch/covers/s05_cover.png" /><itunes:category text="Technology" /><item>
+      <title>S5E01</title>
+      <itunes:title>S5E01</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep41.mp3" length="8925213" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep41.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:24:47</itunes:duration>
+      <description>S5E01</description>
+    </item>
+    <item>
+      <title>S5E02</title>
+      <itunes:title>S5E02</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep42.mp3" length="7384269" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep42.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:30</itunes:duration>
+      <description>S5E02</description>
+    </item>
+    <item>
+      <title>S5E03</title>
+      <itunes:title>S5E03</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep43.mp3" length="7271085" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep43.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:11</itunes:duration>
+      <description>S5E03</description>
+    </item>
+    <item>
+      <title>S5E04</title>
+      <itunes:title>S5E04</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep44.mp3" length="7271949" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep44.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:11</itunes:duration>
+      <description>S5E04</description>
+    </item>
+    <item>
+      <title>S5E05</title>
+      <itunes:title>S5E05</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep45.mp3" length="7454541" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep45.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:42</itunes:duration>
+      <description>S5E05</description>
+    </item>
+    <item>
+      <title>S5E06</title>
+      <itunes:title>S5E06</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep46.mp3" length="7478877" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep46.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:46</itunes:duration>
+      <description>S5E06</description>
+    </item>
+    <item>
+      <title>S5E07</title>
+      <itunes:title>S5E07</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep47.mp3" length="7371165" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep47.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:28</itunes:duration>
+      <description>S5E07</description>
+    </item>
+    <item>
+      <title>S5E08</title>
+      <itunes:title>S5E08</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep48.mp3" length="7343085" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep48.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:23</itunes:duration>
+      <description>S5E08</description>
+    </item>
+    <item>
+      <title>S5E09</title>
+      <itunes:title>S5E09</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep49.mp3" length="7408893" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep49.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:34</itunes:duration>
+      <description>S5E09</description>
+    </item>
+    <item>
+      <title>S5E10</title>
+      <itunes:title>S5E10</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep50.mp3" length="7399677" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep50.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:33</itunes:duration>
+      <description>S5E10</description>
+    </item>
+    </channel></rss>
