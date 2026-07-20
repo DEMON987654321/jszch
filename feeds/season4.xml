@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>技术资产化 - 第4季·商业计划书</title><link>https://demon987654321.github.io/jszch</link><language>zh-cn</language><description>一份BP打动投资人，10集BP写作心法。</description><itunes:author>王博辉</itunes:author><itunes:summary>技术资产化播客</itunes:summary><itunes:author>王博辉</itunes:author><itunes:image href="https://demon987654321.github.io/jszch/covers/s04_cover.png" /><itunes:category text="Technology" /><item>
+      <title>S4E01</title>
+      <itunes:title>S4E01</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep31.mp3" length="7253949" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep31.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:08</itunes:duration>
+      <description>S4E01</description>
+    </item>
+    <item>
+      <title>S4E02</title>
+      <itunes:title>S4E02</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep32.mp3" length="7268781" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep32.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:11</itunes:duration>
+      <description>S4E02</description>
+    </item>
+    <item>
+      <title>S4E03</title>
+      <itunes:title>S4E03</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep33.mp3" length="7215357" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep33.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:02</itunes:duration>
+      <description>S4E03</description>
+    </item>
+    <item>
+      <title>S4E04</title>
+      <itunes:title>S4E04</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep34.mp3" length="7400973" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep34.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:33</itunes:duration>
+      <description>S4E04</description>
+    </item>
+    <item>
+      <title>S4E05</title>
+      <itunes:title>S4E05</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep35.mp3" length="7315149" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep35.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:19</itunes:duration>
+      <description>S4E05</description>
+    </item>
+    <item>
+      <title>S4E06</title>
+      <itunes:title>S4E06</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep36.mp3" length="7598685" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep36.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:21:06</itunes:duration>
+      <description>S4E06</description>
+    </item>
+    <item>
+      <title>S4E07</title>
+      <itunes:title>S4E07</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep37.mp3" length="7294269" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep37.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:15</itunes:duration>
+      <description>S4E07</description>
+    </item>
+    <item>
+      <title>S4E08</title>
+      <itunes:title>S4E08</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep38.mp3" length="7419837" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep38.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:36</itunes:duration>
+      <description>S4E08</description>
+    </item>
+    <item>
+      <title>S4E09</title>
+      <itunes:title>S4E09</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep39.mp3" length="7235949" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep39.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:05</itunes:duration>
+      <description>S4E09</description>
+    </item>
+    <item>
+      <title>S4E10</title>
+      <itunes:title>S4E10</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <enclosure url="https://demon987654321.github.io/jszch/episodes/Ep40.mp3" length="7557069" type="audio/mpeg" />
+      <guid>https://demon987654321.github.io/jszch/episodes/Ep40.mp3</guid>
+      <pubDate>Sat, 19 Jul 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>00:20:59</itunes:duration>
+      <description>S4E10</description>
+    </item>
+    </channel></rss>
