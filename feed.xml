@@ -7,6 +7,9 @@
     <description>技术资产化播客：从实验室到银行卡，揭秘技术如何变成可交易的资产。覆盖技术估值、专利实战、商业计划书、成果转化、国际技术转移等领域，80集完整系列。</description>
     <itunes:author>王博辉</itunes:author>
     <itunes:summary>技术资产化播客</itunes:summary>
+    <itunes:image href="https://demon987654321.github.io/jszch/covers/s01_cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:type>episodic</itunes:type>
     <item>
       <title>S1E01</title>
       <itunes:title>S1E01</itunes:title>
